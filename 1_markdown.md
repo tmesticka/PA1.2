@@ -7,7 +7,34 @@ Here is the example to replicate:
 
 ![Markdown example](https://github.com/TUDelft-MUDE/source-files/raw/main/file/markdown_example.png)
 
-% WRITE YOUR MARKDOWN HERE
+## My First Markdown Document 
+
+This is my introduction to *markdown formating*. I'm learning hor to use various formatting options so that I can styyle my reports. 
+
+**Skills I'm practicing:** 
+1. Making text bold and italic
+2. Creating ordered and unordered lists 
+3. Adding code snippets 
+4. Creating headers and subheaders 
+
+**Important programming concepts:**
+- Variables store data values 
+- Functions are reusable blocks of code 
+- `print()` is a built-in Python function 
+- Comments help explain code to others 
+
+Here's a simple Python example: 
+```python 
+# This is a comment 
+name = "MUDE Student"
+age = 20
+print(f"Hello, my name is {name} and I am {age} years old.")
+````
+
+**Useful resources:**
+- [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+
+*Remember: Practice makes perfect!*
 
 
 ## Task 2 Open rendered markdown preview
@@ -24,3 +51,14 @@ Now try to replicate the following markdown table (you can copy-paste the star e
 
 
 > By Tom van Woudenberg, Delft University of Technology. CC BY 4.0, more info [on the Credits page of Workbook](https://mude.citg.tudelft.nl/workbook-2025/credits.html).
+
+
+Here are a few formatting tips:
+
+    Write out lists by beginning the line with a hyphen - my item, or a number and dot 1. first item
+
+    You make text bold by using **double asterisk** and italics with *one asterisk*.
+
+    Highlight code-related words using `back-ticks` ,
+
+    Create multi-line code block with three back-ticks. Provide a language after the first backticks to get syntax highlighting:
