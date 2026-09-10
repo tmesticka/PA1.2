@@ -39,7 +39,9 @@ print(f"Hello, my name is {name} and I am {age} years old.")
 
 ## Task 2 Open rendered markdown preview
 
-Test out the rendered markdown preview in VS code (`CTRL`+`SHIFT`+`V`). Is it identical to the image?
+Test out the rendered markdown preview in VS code (`CTRL`+`SHIFT`+`V`). Is it identical to the image? 
+
+Yes it is.
 
 ## Task 3 Create a markdown table
 
@@ -47,18 +49,13 @@ Now try to replicate the following markdown table (you can copy-paste the star e
 
 ![Markdown example](https://github.com/TUDelft-MUDE/source-files/raw/main/file/markdown_table.png)
 
-% WRITE YOUR MARKDOWN HERE
+| **Language** | **Difficulty** | **Use Case** | **Popularity** | 
+| :-: | :- | :- | :-: | 
+| Python | Begginer | Data Science, Web Dev | ⭐⭐⭐⭐⭐ | 
+| JavaScript | Begginer | Web Development | ⭐⭐⭐⭐⭐ | 
+| C++ | Advanced | System Programming | ⭐⭐⭐ | 
+| R | Intermediate | Statisics, Data Analysis | ⭐⭐⭐ | 
+
 
 
 > By Tom van Woudenberg, Delft University of Technology. CC BY 4.0, more info [on the Credits page of Workbook](https://mude.citg.tudelft.nl/workbook-2025/credits.html).
-
-
-Here are a few formatting tips:
-
-    Write out lists by beginning the line with a hyphen - my item, or a number and dot 1. first item
-
-    You make text bold by using **double asterisk** and italics with *one asterisk*.
-
-    Highlight code-related words using `back-ticks` ,
-
-    Create multi-line code block with three back-ticks. Provide a language after the first backticks to get syntax highlighting:
